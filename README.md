@@ -6,7 +6,7 @@ Built because normal notes apps are boring.
 
 ## Demo
 
-click here - visionboard-rouge.vercel.app
+click here - https://visionboard-rouge.vercel.app/
 
 ## Features
 
