@@ -4,8 +4,9 @@ A simple vision board website where you can add goals, images, checklists, remin
 
 Built because normal notes apps are boring.
 
-## demo
+## Demo
 
+click here - visionboard-rouge.vercel.app
 
 ## Features
 
